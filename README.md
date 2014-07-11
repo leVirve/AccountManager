@@ -49,7 +49,7 @@ Details
 License
 ----
 
-MIT
+GPL v2
 
 
 **Simple Demo with python, Yeah!**
